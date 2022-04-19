@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on CS
 - 📫 How to reach me itwai925@gmail.com
-- My Blog is www.itwai.net
+- My Blog is www.itwaix.com
 
 <!---
 itwaiX/itwaiX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
