@@ -4,11 +4,14 @@
 - 👀 I’m interested in explore in your own world
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on CS
-- 📫 How to reach me itwai925@gmail.com
-- My Blog is www.itwaix.com
 
 ## Things I code with
 
+<img src="https://img.shields.io/badge/Frame-Hexo-blue">
+
+## 📫 How to reach me
+My Blog is www.itwaix.com
+My email is itwai925@gmail.com
 
 <!---
 itwaiX/itwaiX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
