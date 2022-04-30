@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itwaiX
+- 👋 Hi, I’m 'Yuang Xu'
 - 👀 I’m interested in explore in your own world
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on CS
