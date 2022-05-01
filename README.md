@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on CS
 
 ## 💻 Things I code with
-<img src="https://img.shields.io/badge/DB-like-blue"> <img src="https://img.shields.io/badge/Frame-Hexo-blue">
+<img src="https://img.shields.io/badge/Github-coding-black"> <img src="https://img.shields.io/badge/Gsoc-learning-blue">
 <img src="https://img.shields.io/badge/Frame-Hexo-blue">
 
 
