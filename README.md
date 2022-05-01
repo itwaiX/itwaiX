@@ -15,6 +15,8 @@
 - 📫 My Blog is www.itwaix.com
 - ✉️ My email is itwaix@gmail.com
 
+## 📓 Book reading
+- 📕 Redbook-5th-edition.pdf
 
 ## My coding
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itwaix&show_icons=true&theme=swift)
