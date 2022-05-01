@@ -16,7 +16,9 @@
 - ✉️ My email is itwaix@gmail.com
 
 ## 📓 Book reading
+- 📘 TiDB 6.X Book Rush 
 - 📕 Redbook-5th-edition.pdf
+- 📚 A lot more...
 
 ## My coding
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itwaix&show_icons=true&theme=swift)
