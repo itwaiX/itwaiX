@@ -13,7 +13,7 @@
 
 ## 🔎 How to reach me
 - 📫 My Blog is www.itwaix.com
-- ✉️ My email is itwai925@gmail.com
+- ✉️ My email is itwaix@gmail.com
 
 
 ## My coding
