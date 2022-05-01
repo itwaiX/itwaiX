@@ -1,7 +1,7 @@
 # 😀 Hey！Nice to see you.
 
 - 👋 Hi, I’m `Yuang Xu` (itwaix)
-- 👀 I’m interested in explore in your own world
+- 👀 I'm interested in exploring my own world
 - 🌱 I’m currently learning Java, Rust
 - 💞️ I’m looking to collaborate on CS
 
